@@ -11,4 +11,6 @@ Rufino
 Saul
 Paulina
 
-Estamos en la rama llamada "LINEA1".
+Nos encontramos en la rama TESTER
+
+este segmento fue eliminado
